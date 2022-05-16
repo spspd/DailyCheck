@@ -1,0 +1,31 @@
+tkinter 배치
+
+1. 왼쪽에 리스트박스, 상단에 라벨 + save, remove
+2. 우측에 textbox, 상단에 번호,하단에 save, prev, next, alarm
+3. 
+
+
+    frame1 (1_1)                 frame2
+label1 / bt1 / bt2      / label2(number)
+
+listboxt                / text box
+                        / save, prev, next, alarm
+addtext add
+
+
+배치방법
+프레임을 만들고
+그 프레임안에 배치한다
+
+프레임은 나중에 생각하고 일단 절대좌표로 기능부터 만들자 
+
+매일 해야하는것 콤보박스로 기록
+경험치량과 기대값 기록 
+db 로 보내서 통계 내기
+걸린시간 기록
+
+이것을 만드는 쉬운 프로그램을 만들기 
+pyautogui로 마우스 위치 받아서 하면됨
++ 인자 설정
+
+그외 기본형식 만들어서 두기
